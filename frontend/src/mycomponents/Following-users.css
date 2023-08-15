@@ -1,0 +1,46 @@
+.Followingusers-container{
+    margin-top: 3em;
+    width: 30em;
+    height: 40em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 35em;
+    background-color: rgb(238, 238, 238);
+    box-shadow: 2px 2px 4px 2px rgba(22, 20, 20, 0.3);
+}
+.innerDiv{
+
+height: 31em;
+width: 23em;
+border: 1px solid black;
+}
+.inner-innerdiv{
+    height: 3.5em;
+    margin: 3px;
+    justify-content: space-between;
+    display: flex;
+}
+.sendBtn{
+    margin-top: 1.5em;
+    height: 2em;
+    width: 10em;
+}
+.usersprofile-image{
+    height: 2em;
+    /* margin-top: 12px; */
+    border: 1px solid black;
+    background-color: red;
+    width: 2em;
+    border-radius: 30px;
+}
+.selected-user-email{
+    display: inline-block;
+    margin-left: 1em;
+}
+.selectBtn{
+    height: 2em;
+    width: 5em;
+    margin-top: 14px;
+    margin-left: 2em;
+}

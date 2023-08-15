@@ -1,0 +1,56 @@
+
+.setting-main{
+    height: 40.4em;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    width: 85.4em;
+    background-color: white;
+}
+.sidenavbar{
+    display: grid;
+    height: 26em;
+    text-align: center;
+    width: 17em;
+}
+.main-child-box{
+    margin-top: 5em;
+    height: 32.1em;
+    width: 44.9em;
+    border-right: 1px soild black;
+    border-top: 1px soild black;
+    border-bottom: 1px soild black;
+    background-color: rgb(224, 226, 246);
+}
+.username-label{
+    margin-top: 2em;
+    margin-left: 13em;
+}
+#usernameinput{
+    /* background-color:  rgb(255, 223, 223); */
+    /* border: 1px solid  rgb(255, 223, 223); */
+    margin-left:4em;
+
+}
+#profilechange-label{
+    margin-top: 2em;
+    margin-left: 6.4em;
+}
+#userimageinput{
+    margin-left:3.6em;
+}
+#userbio-label{
+    margin-top: 2em;
+    margin-left: 14.4em;
+}
+#userbioinput{
+    height: 4em;
+    width: 20em;
+    margin-left:3.8em;
+}
+#updatebutton{
+    height: 2.5em;
+    width: 10em;
+    margin-top: 12em;
+    margin-left:20em;
+
+}

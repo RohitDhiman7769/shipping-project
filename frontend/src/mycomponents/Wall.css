@@ -1,0 +1,26 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.wall-header{
+    background-color: rgb(224, 226, 246);
+    position: fixed;
+    height: 6em;
+    width: 100em;
+    border-bottom: 1px soild black ;
+
+}
+.wallmain{
+    height: 40.9em;
+    margin-top: 6em;
+    margin-left: 14.6em;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    width: 84em;
+    /* background-color: rgb(224, 226, 246); */
+}
+#like{
+
+    margin-left: 25px;
+    height: 25px;
+}

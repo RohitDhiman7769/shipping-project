@@ -1,0 +1,34 @@
+.qualification{
+    /* display: flex; */
+    color: black;
+}
+.qualificaton-sidenav{
+    color: red;
+    display: inline-block;
+    height: 29.2em;
+    width: 4em;
+    /* background-color: orange; */
+    text-align: center;
+
+}
+#twelveth{
+   
+        font-size: 13px;
+        margin-top: 13px;
+}
+#college{
+    margin-top: 12em;
+
+}
+#deploma{
+    margin-top: 113px;
+
+}
+.rightbox{
+    color: green;
+    /* display: table-row; */
+    height: 29.2em;
+    width: 23em;
+    /* background-color: yellow; */
+
+}

@@ -1,0 +1,103 @@
+
+.login-container {
+    margin: 5em;
+    display: flex;
+    background-color: #fff;
+    width: 89em;
+    box-shadow: 2px 2px 4px 4px rgba(22, 20, 20, 0.3);
+    height: 37em;
+}
+
+.leftBox {
+    background-color: rgb(224, 226, 246);
+    height: 37em;
+
+    width: 45.5em;
+}
+
+#icon {
+    height: 8em;
+    width: 8em;
+    margin-left: 18em;
+    margin-top: 13em;
+}
+
+#greet {
+    padding-left: 1.3em;
+    width: 7em;
+    border-radius: 23px;
+    margin-top: 3em;
+    display: inline-block;
+    background-color: white;
+    border: 2px solid #893BFF;
+    color: #893BFF;
+    margin-left: 6.8em;
+
+}
+
+.rightBox {
+   
+
+    /* background-color: red; */
+    width: 32em;
+    height: 40.6em;
+    border-left: 1px solid #893BFF;
+    /* opacity: 50%; */
+}
+
+#info {
+    color: black;
+    margin-top: 5em;
+    width: 21em;
+    margin-left: 13em;
+}
+
+#emailbox {
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    margin-top: 15em;
+    margin-left: 15em;
+    height: 3em;
+    width: 23em;
+    display: flex;
+    border: 2px solid #893BFF;
+    border-radius: 4px;
+}
+
+#password {
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    margin-top: 1em;
+    margin-left: 15em;
+    height: 3em;
+    width: 23em;
+    display: flex;
+    border: 2px solid #893BFF;
+    border-radius: 4px;
+
+
+}
+
+/* input::placeholder{
+    text-align: center;
+    color: #893BFF;
+    font-size: 15px;
+} */
+#submit{
+    color: white;
+    background-color: #893BFF;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    margin-top: 1em;
+    margin-left: 14em;
+    height: 2.5em;
+    font-size: 17px;
+    width: 14em;
+    display: flex;
+    border: 2px solid #893BFF;
+    border-radius: 4px;
+
+}

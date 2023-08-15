@@ -1,0 +1,60 @@
+body{
+    background: linear-gradient(to right,grey ,black );
+    margin: 0%;
+    padding: 0%;
+}
+
+.container{
+    display: flex;
+    background-color:white;
+    height: 46.5em;
+    width:37em;
+    margin: auto;
+
+
+}
+.sidenavbar{
+    color: aliceblue;
+    text-align: center;
+    background-color:black;
+    width: 10.5em ;
+    height: 46.5em;
+}
+.header{
+    display: flex;
+
+    width: 27em ;
+    height: 10.5em;
+
+
+}
+.main{
+    border: 1px solid red;
+    width: 27em ;
+    height: 46.5em;
+    /* padding: 3px; */
+    background-color: black;
+}
+
+.cv_dp{
+    border: 3px solid black;
+    height: 10.3em;
+    width: 10.5em;
+}
+.info{
+
+    display: grid;
+    margin-top: 12px;
+    height: 20em;
+    width: 10em;
+    /* background-color: White; */
+
+
+}
+.info a{
+    /* padding-top: 2em; */
+    font-weight: 3px;
+    text-decoration: none;
+    color:red;
+
+}

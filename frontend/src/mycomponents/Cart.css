@@ -1,0 +1,131 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.cart-header{
+    background-color: rgb(224, 226, 246);
+    position: fixed;
+    height: 6em;
+    width: 100em;
+    border-bottom: 1px soild black ;
+
+}
+.cart-main{
+    padding-left: 5eme;
+    padding-top: 6em;
+    height: auto;
+    border-top: 1px soild black;
+    border-right: 1px soild black;
+    width: 98.7em;
+    /* background-color: rgb(224, 226, 246); */
+}
+#cart-inner-div{
+    margin-top: 2.5em;
+    margin-left: 17em;
+    height: auto;
+    width: 77em;
+    padding-left: 2em;
+    padding-top: 2em;
+    padding-right: 2em;
+    border: 1px solid black;
+    background-color: rgb(224, 226, 246);
+
+}
+#cart-content-div{
+    margin-bottom: 2em;
+    height:20em;
+    width: 77em;
+    border: 1px solid black;
+    background-color: #fff;
+}
+#user-name{
+margin-left: 2em;
+font-size: 1.5em;
+}
+#user-product-img{
+    margin-left: 3em;
+    height: 10em;
+    width: 8em;
+    border: 1px solid black;
+}
+.post-details{
+display: flex;
+align-items: center;
+}
+#about-label{
+    margin-left: 1em;
+
+}
+#cart-about{
+    margin-left: 1em;
+
+}
+#price-label{
+    margin-left: 1.6em;
+}
+#cart-price{
+    margin-left: 1em;
+}
+#cart-quantity{
+    margin-left: 1em;
+
+}
+#buyBtn{
+    margin-top: 1em;
+    width: 10em;
+    height: 2.5em;
+    margin-left: 37em;
+}
+#quantitydiv{
+    margin-top: 1em;
+
+    height: 2em;
+    margin-left: 10em;
+}
+#cart-quantity-input{
+    margin-left: 3em;
+}
+#addressdiv{
+    margin-top: 1em;
+    display: flex;
+    height: 2em;
+    align-items: center;
+    margin-left: 7em;
+}
+#yesTag{
+    margin-left: 3em;
+
+}
+#addressRadio{
+    margin-left: 1em;
+}
+#noTag{
+    margin-left: 1em;
+}
+#label_add-div{
+    align-items: center;
+    display: flex;
+    margin-left: 10.4em;
+}
+#amountdiv{
+    margin-top: 1em;
+    display: flex;
+    align-items: center;
+}
+#amount-label{
+    margin-left: 8em;
+}
+#amount-p-tag{
+    margin-left: 3em;
+    display: inline-block;
+    border-bottom:1px solid black ;
+}
+#buybtn{
+    margin-top: 3em;
+
+    height: 2em;
+    width: 9em;
+    border: 2px solid black;
+    margin-left: 16em;
+
+}

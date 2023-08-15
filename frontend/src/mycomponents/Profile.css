@@ -1,0 +1,57 @@
+.profile-container{
+    display: flex;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+}
+
+.profile-main{
+    height: 46.8em;
+    margin-left: 233px;
+    border-left: 2px solid black;
+    width: 85.2em;
+    background-color: white;
+
+}
+.main-header{
+    display: flex;
+    width: 30em;
+    margin: 0%;
+    padding: 0%;
+}
+#emailview{
+    margin-left: 1em;
+    font-size: 23px;
+}
+.userdp{
+    border: 2px solid black;
+    height: 6em;
+    width: 6em;
+    border-radius: 65px;
+    /* background-color: black; */
+}
+.addpostdiv{
+    display: flex;
+    height: 3em;
+    justify-content: center;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+
+}
+.postadd{
+    height: 3em;
+    margin-top: 4px;
+    width: 20em;
+}
+.posts-section{
+    /* border-top: 2px solid black ; */
+
+    display: block;
+    width: 84em;
+}
+.post-images{
+    border: 1px solid black;
+    margin-top: 12px;
+    margin-left: 12px;
+    height: 20em;
+    width: 20em;
+}

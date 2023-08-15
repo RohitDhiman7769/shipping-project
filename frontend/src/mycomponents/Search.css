@@ -1,0 +1,21 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.search-header{
+    background-color: rgb(224, 226, 246);
+    position: fixed;
+    height: 6em;
+    width: 100em;
+    border-bottom: 1px soild black ;
+
+}
+.search-main{
+    padding-left: 5eme;
+    padding-top: 6em;
+    height: auto;
+    border-top: 1px soild black;
+    border-right: 1px soild black;
+    width: 98.7em;
+    background-color: rgb(224, 226, 246);
+}

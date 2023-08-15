@@ -1,0 +1,81 @@
+
+.intro-container {
+    margin: 5em;
+    display: flex;
+    background-color: #fff;
+    width: 89em;
+    box-shadow: 2px 2px 4px 4px rgba(22, 20, 20, 0.3);
+    height: 37em;
+}
+
+.leftBox {
+    background-color: rgb(224, 226, 246);
+    height: 37em;
+
+    width: 45.5em;
+}
+
+#icon {
+    height: 8em;
+    width: 8em;
+    margin-left: 18em;
+    margin-top: 13em;
+}
+
+#greet {
+    padding-left: 1.3em;
+    width: 7em;
+    border-radius: 23px;
+    margin-top: 3em;
+    display: inline-block;
+    background-color: white;
+    border: 2px solid #893BFF;
+    color: #893BFF;
+    margin-left: 6.8em;
+
+}
+
+.rightBox {
+   
+    background-color: rgb(224, 226, 246);
+    width: 43.7em;
+    height: 37em;
+
+    border-left: 1px solid white;
+    /* opacity: 50%; */
+}
+
+#info {
+    color: black;
+    margin-top: 5em;
+    width: 21em;
+    margin-left: 14.5em;
+}
+
+#loginbtn {
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    margin-top: 12em;
+    margin-left: 11em;
+    height: 3em;
+    width: 23em;
+    display: flex;
+    border: 3px solid #893BFF;
+    border-radius: 4px;
+}
+
+#signupbtn {
+    justify-content: center;
+    text-decoration: none;
+    align-items: center;
+    margin-top: 1em;
+    margin-left: 11em;
+    height: 3em;
+    width: 23em;
+    display: flex;
+    border: 3px solid #893BFF;
+    border-radius: 4px;
+
+
+}

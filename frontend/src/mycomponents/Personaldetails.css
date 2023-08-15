@@ -1,0 +1,104 @@
+.personaldetails-header{
+    background-color: rgb(224, 226, 246);
+    height: 6em;
+    width: 100em;
+}
+.personaldetails-main{
+    display: flex;
+    height: 40.3em;
+    border-top: 1px solid black;
+    border-left: 1px solid black ;
+    width: 84em;
+    background-color: white;
+    margin-left: 14.6em;
+
+}
+.personaldetails-main-child-box{
+    margin-top: 5em;
+    height: 32.1em;
+    width: 46em;
+    border-right: 1px soild black;
+    border-top: 1px soild black;
+    border-bottom: 1px soild black;
+    background-color:  rgb(224, 226, 246);
+}
+#usercontact-label{
+    margin-left: 13.4em;
+
+}
+#usercontact{
+    margin-left: 5em;
+    
+}
+#useremail-label{
+    margin-left: 13.2em;
+
+}
+#useremail{
+    margin-left: 5.2em;
+
+}
+
+#userdob-label{
+    margin-left: 11.2em;
+}
+
+#userdob{
+    margin-left: 5.2em;
+}
+
+#useraddress-label{
+    margin-left: 13.4em;
+
+}
+
+#useraddress{
+    margin-left: 4.8em;
+
+}
+
+#usercity-label{
+    margin-left: 15.2em;
+
+}
+
+#usercity{
+    margin-left: 5.2em;
+
+}
+#userstate-label{
+    margin-left: 14.6em;
+
+
+}
+#userstate{
+    margin-left: 5.3em;
+
+}
+
+#usercountry-label{
+    margin-left: 13.3em;
+
+}
+
+#usercountry{
+    margin-left: 5.2em;
+
+}
+
+#useroincode-label{
+    margin-left: 11em;
+
+}
+
+#userpincode{
+    margin-left: 5.1em;
+
+}
+#profileupdate{
+    width: 8em;
+    height: 2em;
+    margin-top: 6em;
+    margin-left: 22em;
+}
+

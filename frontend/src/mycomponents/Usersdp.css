@@ -1,0 +1,7 @@
+.makeprofile-container{
+    width: 30em;
+    height: 40em;
+    margin: auto;
+    background-color: rgb(238, 238, 238);
+    box-shadow: 2px 2px 4px 2px rgba(22, 20, 20, 0.3);
+}

@@ -1,0 +1,14 @@
+.head{
+    border: 1px solid red;
+    padding-left: 7px;
+    color: red;
+    background-color: black;
+}
+.name{
+    
+     font-size: 23px;
+}
+#gmail{
+    /* color: green; */
+    font-size: 13px;
+}

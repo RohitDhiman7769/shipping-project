@@ -1,0 +1,44 @@
+.Accountsetting-header{
+    background-color: rgb(224, 226, 246);
+    height: 6em;
+    width: 100em;
+}
+.Accountsetting-main{
+    display: flex;
+    height: 40.9em;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    width: 85.3em;
+    margin-left: 14.6em;
+    background-color: white;
+
+}
+.Accountsetting-main-child-box{
+    margin-top: 5em;
+    height: 32.1em;
+    width: 46em;
+    border-right: 1px soild black;
+    border-top: 1px soild black;
+    border-bottom: 1px soild black;
+    background-color:  rgb(224, 226, 246);
+}
+#logoutinfo{
+    margin-left: 4em;
+    font-weight: 600;
+}
+#submitbtn{
+    height: 2em;
+    width: 10em;
+    margin-left: 4em;
+    margin-top: 1em;
+}    
+#deleteAcc{
+    margin-left: 4em;
+    font-weight: 600;
+}
+#dltbtn{
+    height: 2em;
+    width: 10em;
+    margin-left: 5em;
+    margin-top: 1em;
+}

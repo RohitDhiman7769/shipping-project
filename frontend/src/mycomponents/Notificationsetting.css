@@ -1,0 +1,24 @@
+.Notificationsetting-header{
+    background-color: rgb(224, 226, 246);
+    height: 6em;
+    width: 100em;
+}
+.Notificationsetting-main{
+    display: flex;
+    height: 40.9em;
+    width: 85em;
+    margin-left: 14.6em;
+    background-color: white;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+
+}
+.Notificationsetting-main-child-box{
+    margin-top: 5em;
+    height: 32.1em;
+    width: 46em;
+    border-right: 1px soild black;
+    border-top: 1px soild black;
+    border-bottom: 1px soild black;
+    background-color:  rgb(224, 226, 246);
+}

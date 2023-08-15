@@ -1,0 +1,19 @@
+.navbar{
+    margin-top: 2em;
+    display: grid;
+    height: 26.6em;
+    text-align: center;
+    width: 15em;  
+}
+.navbar-link{
+    text-decoration: none;
+
+}
+.setting-sidenavbar{
+    border: 1px solid;
+    width: 17em;
+    text-align: center;
+    /* margin: 5em; */
+    margin-top: 5em;
+    margin-left: 7em;
+}

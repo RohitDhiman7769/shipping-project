@@ -1,0 +1,80 @@
+/* .body{
+    background-color: #893BFF;
+}
+.container {
+    display: flex;
+    background-color: #fff;
+    margin: 3em;
+    height: 40.6em;
+    width: auto;
+}
+#label{
+    display: flex;
+    margin-left:'2em';
+
+    color: #893BFF;
+
+}
+#firstName{
+    margin-left:4em;
+    font-size: 19px;
+    margin-top: 3em;
+    display: block;
+    height: 2em;
+    width: 16em;
+    border: 3px solid #893BFF;
+    border-radius: 4px;
+}
+#lastName{
+    font-size: 19px;
+    margin-top: 1em;
+    display: block;
+    margin-left:4em;
+
+    height: 2em;
+    width: 16em;
+    border: 3px solid #893BFF;
+    border-radius: 4px;
+}
+#gender{
+    font-size: 19px;
+    margin-top: 1em;
+    display: block;
+    height: 2em;
+    width: 16em;
+    margin-left:4em;
+    border: 3px solid #893BFF;
+    border-radius: 4px;
+}
+#dob{
+    font-size: 19px;
+    margin-top: 1em;
+    display: block;
+    margin-left:4em;
+    height: 2em;
+    width: 16em;
+    border: 3px solid #893BFF;
+    border-radius: 4px;
+}
+
+
+input::placeholder{
+    display: block;
+    text-align: start;
+    color: black;
+    font-size: 15px;
+}
+.next{
+    cursor: pointer;
+    position: absolute;
+    bottom: 74px;
+    right: 66px;
+    text-align: center;
+    display: block;
+    color: white;
+    background-color: #893BFF;
+    height: 3em;
+    width: 13em;
+    border: 2px solid #893BFF;
+    border-radius: 4px;
+} */

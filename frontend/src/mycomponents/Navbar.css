@@ -1,0 +1,17 @@
+.sidenav-bar{
+    padding-top: 3em;
+    position: fixed;
+    align-items: center;
+    font-size: 23px;
+    height: 29.6em;
+    display: flex;
+    flex-direction: column;
+    width: 10.1em;
+    background-color: rgb(224, 226, 246);
+
+}
+.links{
+    text-decoration: none;
+    margin-top: 2em;
+    
+}
